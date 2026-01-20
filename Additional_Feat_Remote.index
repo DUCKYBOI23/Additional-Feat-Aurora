@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Additional Feat (Level 1)</name>
+    <author>DUCKYBOI23</author>
+    <version>1.0.0</version>
+    <description>Adds an option that lets you choose any feat at level 1.</description>
+    <!-- Aurora expects this node; missing it triggers "missing update node in info block" -->
+    <update>https://raw.githubusercontent.com/DUCKYBOI23/Additional-Feat-Aurora/main/Additional_Feat_Remote.index</update>
+  </info>
+
+  <files>
+    <!-- This is the actual content file Aurora will download -->
+    <file>https://raw.githubusercontent.com/DUCKYBOI23/Additional-Feat-Aurora/main/Additional_Feat_Aurora.xml</file>
+  </files>
+</index>
