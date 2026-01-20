@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<compendium version="5" auto_indent="YES">
+  <feat>
+    <name>Additional Feat</name>
+    <source>Homebrew</source>
+    <description>
+      You gain one additional feat of your choice. You can select this feat at 1st level.
+    </description>
+    <prerequisite></prerequisite>
+    <grants>
+      <grant type="feat" count="1" level="1"/>
+    </grants>
+  </feat>
+</compendium>

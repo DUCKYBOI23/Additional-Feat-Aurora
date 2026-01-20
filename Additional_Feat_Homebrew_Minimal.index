@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Additional Feat Homebrew</name>
+    <author>Homebrew</author>
+    <version>1.0</version>
+    <description>Adds an option that grants one extra feat selection at level 1.</description>
+  </info>
+  <files>
+    <file>Additional_Feat_Aurora.xml</file>
+  </files>
+</index>
